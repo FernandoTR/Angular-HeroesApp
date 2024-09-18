@@ -15,6 +15,15 @@ Este un listado de los temas fundamentales:
 9. Peticiones HTTP.
 10. JSON-Server.
 11. Prime Flex.
+12. CRUD.
+13. Protección de rutas.
+14. Rutas privadas.
+15. Rutas públicas.
+16. Servicio de autenticación.
+17. Guards.
+18. Can Activate.
+19. Can Match.
+20. Mantener la sesión del usuario.
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.9.
